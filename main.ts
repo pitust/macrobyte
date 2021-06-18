@@ -11,7 +11,6 @@ if (storage.has('keys')) {
         if (storage.has(key)) configparser.config[key] = storage.read(key).toString()
     }
 }
-serial.writeString(',Pitch,Roll\n')
 let buffer = ''
 
 class Sample {
