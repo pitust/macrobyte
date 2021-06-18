@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/minimist": "^1.2.1",
     "@types/node": "^15.12.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "pxt": "^0.5.1",
     "pxt-microbit": "^3.1.93",
     "yaml": "^1.10.2"
