@@ -1,0 +1,18 @@
+{
+    "name": "liblmao",
+    "description": "liblmao lmao",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shims.d.ts",
+        "liblmao.cpp",
+        "liblmao.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "3.1.93",
+        "pxt": "6.13.53"
+    }
+}

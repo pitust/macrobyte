@@ -1,0 +1,24 @@
+{
+    "name": "macrobyte",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "liblmao": "*"
+    },
+    "files": [
+        "README.md",
+        "fun.cpp",
+        "main.ts",
+        "configparser.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

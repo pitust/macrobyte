@@ -1,0 +1,20 @@
+{
+  "name": "macrobyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/minimist": "^1.2.1",
+    "@types/node": "^15.12.2",
+    "minimist": "^1.2.0",
+    "pxt": "^0.5.1",
+    "pxt-microbit": "^3.1.93",
+    "yaml": "^1.10.2"
+  }
+}
